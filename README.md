@@ -1,4 +1,4 @@
-# **Music-Dashboard**
+# **Music Dashboard**
 
 ## **General**
 
@@ -17,8 +17,8 @@ Data Pre-processing & Data Cleaning
 Data Visualization
 
 # Tools Used:
-For Data Pre-processing and Cleaning: Excel and Python(Pandas)
-For Visualization - Tableau Desktop
+1. For Data Pre-processing and Cleaning: Excel and Python(Pandas)
+2. For Visualization - Tableau Desktop
 
 # **Music Dashboard Result**
 
