@@ -6,7 +6,7 @@ This repository contains a Tableau Dashboard on music dataset. Performed data an
 
 ## **Project Description**
 
-In this Project I have analyze and gain insight of the kind of content available in the Music dataset.
+In this Project I have analyze and gain insights on the kind of content available in the Music dataset.
 For this project, I utilized a Music dataset and, then constructed and ran queries against this dataset. Finally, I built a dashboard in Tableau to showcase the trend of various songs, artists and features.
 
 ## **Roadmap**
@@ -15,6 +15,10 @@ Data subset collected from kaggle.
 Loading Libraries
 Data Pre-processing & Data Cleaning 
 Data Visualization
+
+# Tools Used:
+For Data Pre-processing and Cleaning: Excel and Python(Pandas)
+For Visualization - Tableau Desktop
 
 # **Music Dashboard Result**
 
